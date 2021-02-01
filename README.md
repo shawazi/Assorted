@@ -1,0 +1,2 @@
+# Assorted
+Various exercises 
